@@ -1,0 +1,19 @@
+{
+  "name": "next-react",
+  "version": "1.0.0",
+  "description": "Next React SFC Definitions",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevangoode/NextReact.git"
+  },
+  "author": "Stevan Goode <stevan.goode@skybettingandgaming.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/stevangoode/NextReact#readme",
+  "dependencies": {
+    "@types/react": "^16.0.25",
+    "redux": "^3.7.2"
+  }
+}
